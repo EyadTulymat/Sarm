@@ -20,7 +20,7 @@ const Product = ({ product, showButton }) => {
 
       <div
         className="bg-white rounded
-       shadow-md text-black text-sm h-fit p-5 mb-20 border-0  element-center max-w-[900px] mx-auto mt-[300px]"
+       shadow-md text-black  text-sm h-fit p-5 mb-20 border-0  element-center max-w-[900px] mx-auto mt-[300px]"
       >
         <img
           // src={product.image}
